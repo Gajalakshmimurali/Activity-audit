@@ -1,7 +1,3 @@
-```
-Name - Kantha Sishanth S
-Reg No. - 212222100020
-```
 # Exp Auditing Cloud Activity Using AWS CloudTrail
 ## Aim
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
@@ -35,7 +31,13 @@ Filter events by:
 Use the Download CSV option to export logs
 Analyze logs in Excel/Sheets for reporting
 
+
 ## Output:
+
+```
+Name - Kantha Sishanth S
+Reg No. - 212222100020
+```
 
 ![AWS-CloudTrail-PCI-Req-10-Login-Activity](https://github.com/user-attachments/assets/8953eee6-bb40-43d0-81c6-88da6444b349)
 
